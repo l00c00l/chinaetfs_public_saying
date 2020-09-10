@@ -2,7 +2,8 @@
 
 本项目基于 ETF 拯救世界的公开内容整理而成，包括
 
-- [新浪微博的问答](weibo_qa/README)
+- [新浪微博的问答](https://github.com/l00c00l/chinaetfs_public_saying\docs/weibo_qa/README.md)
+
 - [且慢-E大微博精选](https://github.com/l00c00l/chinaetfs_public_saying/blob/master/Qieman_EDA.md)
 - [E大的且慢问答-2019.1~2019.12](https://content.qieman.com)
 - [微信公众号的文章-2015.6~](http://mp.weixin.qq.com/mp/homepage?__biz=MzIwMTIzNDMwNA==&hid=1&sn=72a8b1f801ae4973892f10d19b6d88d5&scene=18#wechat_redirect)
